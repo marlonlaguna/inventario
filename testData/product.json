@@ -1,0 +1,11 @@
+[{
+    "id": "1",
+    "name": "Jugo Afa",
+    "description": "Descripcion de jugo afa",
+    "categories": ["1","2"],
+    "images":[],
+    "sort": 1,
+    "locations": ["1"],
+    "externalConfiguration": {}
+}
+]

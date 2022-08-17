@@ -1,4 +1,5 @@
-import express from 'express'
+import express from 'express';
+import productRoute from './routes/Product.route';
 const app = express()
 app.use(express.json())
 
@@ -12,3 +13,5 @@ app.get('/ping', (_req,res) =>{
 app.listen(PORT, () =>{
     console.log('server runing on port ' + PORT);
 })
+
+app.use('/products',productRoute);
