@@ -6,6 +6,17 @@
     "images":[],
     "sort": 1,
     "locations": ["1"],
-    "externalConfiguration": {}
+    "externalConfiguration": {},
+    "enabled":true
+},{
+    "id": "2",
+    "name": "lechuga",
+    "description": "Descripcion de lechuga",
+    "categories": ["3","4"],
+    "images":[],
+    "sort": 2,
+    "locations": ["1","2"],
+    "externalConfiguration": {},
+    "enabled":true
 }
 ]

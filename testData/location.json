@@ -1,0 +1,9 @@
+[{
+    "id": "1",
+    "name": "sucursal de prueba 1",
+    "direccion": "Descripcion de sucursal",
+    "enabled": true,
+    "sort": 1,
+    "externalConfiguration": {}
+}
+]
